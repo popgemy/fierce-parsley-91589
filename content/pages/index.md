@@ -15,7 +15,7 @@ sections:
     type: section_features
     background: gray
     title: Fast
-    subtitle: "Coda is fast protcol you can\_Send and transfer or even hold your moeny"
+    subtitle: "Coda is fast protcol you can\_Send and receiveor even hold your less"
     features:
       - title: The Best Feature of Your Services
         image: images/feature1.png
