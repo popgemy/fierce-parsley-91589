@@ -9,7 +9,7 @@ sections:
     pricing_plans:
       - title: Blogs and smal sites
         subtitle: For small businesses
-        price: $3/m
+        price: $1/m
         details: |-
           * Lorem ipsum dolor sit amet
           * Mauris a mi tincidunt
