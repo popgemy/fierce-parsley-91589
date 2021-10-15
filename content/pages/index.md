@@ -6,9 +6,7 @@ sections:
     image: images/hero.png
     image_alt: App preview
     title: Coda Is Here For You
-    content: >
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site.
+    content: "Best \_ decentralize  services in the world we help developers and small and median sites to the growth of their business by low cost  And we target make all services free In the near future\n"
     actions:
       - label: Learn More
         url: /features
