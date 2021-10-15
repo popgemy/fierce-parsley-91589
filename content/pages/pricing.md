@@ -19,19 +19,6 @@ sections:
           - label: Order Now
             url: /signup
             style: secondary
-      - subtitle: For medium-sized businesses
-        price: $2.5/m
-        details: |-
-          * Curabitur non nunc mollis
-          * Duis a purus nec ligula pellentesque dolor
-          * Pellentesque sit amet
-          * Fusce tempus mi vitae luctus
-          * Nullam sollicitudin ante
-        highlight: true
-        actions:
-          - label: Order Now
-            url: /signup
-            style: primary
       - title: lorem-ipsum
         subtitle: lorem-ipsum
         price: lorem-ipsum
