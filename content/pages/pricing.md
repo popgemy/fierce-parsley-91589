@@ -9,7 +9,7 @@ sections:
     pricing_plans:
       - title: Blogs and smal sites
         subtitle: For small businesses
-        price: $1/m
+        price: $5/m with BCH
         details: |-
           * Lorem ipsum dolor sit amet
           * Mauris a mi tincidunt
