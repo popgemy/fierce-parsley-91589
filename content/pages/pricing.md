@@ -15,9 +15,12 @@ sections:
           *   Mauris a mi tincidunt
           *   Suspendisse ut lacus
           *   Etiam eget dui a augue
-          *   $5/m by bitcon cash
-          *   $4/m by tron
-          *   only 2$/m by Coda
+
+          ##### $5/m by bitcon cash
+
+          ##### $4/m by tron
+
+          ##### only 2$/m by Coda
         actions:
           - label: Order Now
             url: /signup
