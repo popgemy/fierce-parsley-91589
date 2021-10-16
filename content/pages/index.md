@@ -5,7 +5,7 @@ sections:
     type: section_hero
     image: images/hero.png
     image_alt: App preview
-    title: Coda Is Here For You
+    title: Coda Is Here For Everyone.
     content: "Best \_ decentralize  services in the world we help developers and small and median sites to the growth of their business by low cost  And we target make all services free In the near future\n"
     actions:
       - label: Learn More
