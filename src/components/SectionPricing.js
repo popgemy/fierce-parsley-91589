@@ -21,7 +21,7 @@ export default class SectionPricing extends React.Component {
                         {subtitle && <div className="plan-subtitle">{subtitle}</div>}
                         {price && <div className="plan-price">{price}</div>}
                         {price && <div className="plan-price">$4/m by trx</div>}
-                        {price && <div className="plan-price">{price}</div>}
+                        {price && <div className="plan-price">$2.5/m by coda</div>}
 
 
                     </div>
