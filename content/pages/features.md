@@ -15,12 +15,6 @@ sections:
       - label: View Demo
         url: '#'
         style: secondary
-  - section_id: lorem-ipsum
-    title: lorem-ipsum
-    subtitle: lorem-ipsum
-    background: gray
-    features: []
-    type: section_features
   - section_id: call-to-action
     type: section_cta
     title: This Is Call to Action Block!
