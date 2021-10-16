@@ -17,7 +17,7 @@ sections:
     title: Fast
     subtitle: "Coda is fast protcol you can\_Send and receive or even hold your\_less than a 5 second"
     features:
-      - title: The Best Feature of Your Services
+      - title: Coda gives big Services for low cost
         image: images/feature1.png
         image_alt: App preview on a phone and tablet
         content: >-
