@@ -57,7 +57,7 @@ sections:
           - dolor sit amet
         highlight: false
         actions: []
-      - title: Enterprise
+      - title: Travel systems
         subtitle: For very large businesses
         price: $149/m
         details: |-
