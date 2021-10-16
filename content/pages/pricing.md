@@ -10,11 +10,14 @@ sections:
       - title: Blogs and smal sites
         subtitle: For small businesses
         price: $5/m with BCH
-        details: |-
-          * Lorem ipsum dolor sit amet
-          * Mauris a mi tincidunt
-          * Suspendisse ut lacus
-          * Etiam eget dui a augue
+        details: |
+          *   Lorem ipsum dolor sit amet
+          *   Mauris a mi tincidunt
+          *   Suspendisse ut lacus
+          *   Etiam eget dui a augue
+          *   $5/m by bitcon cash
+          *   $4/m by tron
+          *   only 2$/m by Coda
         actions:
           - label: Order Now
             url: /signup
