@@ -20,8 +20,9 @@ sections:
       - title: Unlimited decentralized services
         image: images/feature1.png
         image_alt: App preview on a phone and tablet
-        content: |2
-           No need to spend a lot of money on services, Coda here  for make all this easy and cheap
+        content: >
+          Much services for you any time any cost you want by blockchin  fast to
+          delvery with coda 
         actions:
           - label: Learn More
             url: /features
