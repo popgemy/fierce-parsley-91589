@@ -10,7 +10,7 @@ sections:
     content: "###### Best \_ decentralize  services in the world we help developers and small and median sites to the growth of their business by low cost  And we target make all services and web deal by blochain cryptocurncy and token then make it  free In the near future&#xA;&#xA;\n"
     actions:
       - label: Free Trial
-        url: /signup
+        url: 'https://coinmarketcap.com/'
         style: primary
       - label: View Demo
         url: '#'
