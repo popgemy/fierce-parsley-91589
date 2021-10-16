@@ -41,7 +41,7 @@ sections:
           - dolor sit amet
         highlight: false
         actions: []
-      - title: lorem-ipsum
+      - title: photographers
         subtitle: lorem-ipsum
         price: lorem-ipsum
         details: >-
