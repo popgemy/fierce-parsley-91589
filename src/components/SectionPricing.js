@@ -20,7 +20,7 @@ export default class SectionPricing extends React.Component {
                         {title && <h3 className="plan-title">{title}</h3>}
                         {subtitle && <div className="plan-subtitle">{subtitle}</div>}
                         {price && <div className="plan-price">{price}</div>}
-                        {price && <div className="plan-price">$4 </div>}
+                        {price && <div className="plan-price">$4/m by trx</div>}
                         {price && <div className="plan-price">{price}</div>}
 
 
