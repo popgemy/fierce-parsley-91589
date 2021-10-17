@@ -22,27 +22,25 @@ seo:
       value: This is the style guide page
 layout: page
 ---
-**This is a paragraph**. Pellentesque habitant morbi *tristique senectus et netus et malesuada* fames ac turpis egestas. Vestibulum [tortor quam](https://www.google.com), feugiat Best   decentralize  services in the world we help developers and small and median sites to the growth of their business by low cost  And we target make all services and web deal by blochain cryptocurncy and token then make it  free In the near future
+Coda is .Best   decentralize  services in the world we help developers and small and median sites to the growth of their business by low cost  And we target make all services and web deal by blochain cryptocurncy and token then make it  free In the near future
 
 # what we do :
 
-we do al
+we do all decentralized services and dapp apps for evryone by Professional developers to make all To make all Business fun
 
-## This is an H2
+# How long has Coda been around?
 
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Morbi commodo, ipsum sed pharetra gravida, orci magna rhoncus neque, id pulvinar odio lorem non turpis. Nullam sit amet enim. Suspendisse id velit vitae ligula volutpat condimentum. Aliquam erat volutpat. Sed quis velit. Nulla facilisi. Nulla libero.
+Coda in web from 2013 and do many projects under codesmx brand  and build many projects and javascript llibrarys like underz js and more 
 
-### This is an H3
+and Create many websites and applications  In different regions of the world,
 
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Morbi commodo, ipsum sed pharetra gravida, orci magna rhoncus neque, id pulvinar odio lorem non turpis. Nullam sit amet enim. Suspendisse id velit vitae ligula volutpat condimentum. Aliquam erat volutpat. Sed quis velit. Nulla facilisi. Nulla libero.
+# Our Goals:
 
-#### This is an H4
+We look forward to making services and creating applications available to everyone,no exceptions we want ,We look forward to making all the distinguished people reach their goals with easy way no cost no time coda can do this with a big  professional developers community.
 
-Quisque facilisis erat a dui. Nam malesuada ornare dolor. Cras gravida, diam sit amet rhoncus ornare, erat elit consectetuer erat, id egestas pede nibh eget odio. Proin tincidunt, velit vel porta elementum, magna diam molestie sapien, non aliquet massa pede eu diam. Aliquam iaculis.
+## how i can by coda :
 
-## Quoting
 
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Morbi commodo, ipsum sed pharetra gravida, orci magna rhoncus neque, id pulvinar odio lorem non turpis. Nullam sit amet enim. Suspendisse id velit vitae ligula volutpat condimentum. Aliquam erat volutpat. Sed quis velit. Nulla facilisi. Nulla libero.
 
 > “Creativity is allowing yourself to make mistakes. Design is knowing which ones to keep.”
 
