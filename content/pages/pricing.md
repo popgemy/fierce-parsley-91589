@@ -15,14 +15,12 @@ sections:
           *   Take Backups anytime for free
           *   memory from 1 gb ram up to 64
           *   scale up on demand
-          *   Control Panel 
+          *   Control Panel
           *   not incloud domain
 
+          ##### $5/m by trx
 
-
-          ##### $5/m by bitcon cash
-
-          ##### $4/m by tron
+          ##### $3.5/m by bnb
 
           ##### only 2$/m by Coda
         actions:
