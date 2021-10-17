@@ -42,7 +42,7 @@ sections:
         highlight: false
         actions: []
       - title: photographers
-        subtitle: for
+        subtitle: "for\_Photographer websites"
         price: from $8/m
         details: >-
           ## Lorem ipsum
