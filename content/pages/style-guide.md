@@ -24,11 +24,9 @@ layout: page
 ---
 **This is a paragraph**. Pellentesque habitant morbi *tristique senectus et netus et malesuada* fames ac turpis egestas. Vestibulum [tortor quam](https://www.google.com), feugiat Best   decentralize  services in the world we help developers and small and median sites to the growth of their business by low cost  And we target make all services and web deal by blochain cryptocurncy and token then make it  free In the near future
 
+# what we do :
 
-
-# This is an H1
-
-Quisque facilisis erat a dui. Nam malesuada ornare dolor. Cras gravida, this is marked text ornare, erat elit consectetuer erat, id egestas pede nibh eget odio. Proin tincidunt, velit vel porta elementum, magna diam molestie sapien, non aliquet massa pede eu diam. Aliquam iaculis. Fusce et ipsum et nulla tristique facilisis.
+we do al
 
 ## This is an H2
 
