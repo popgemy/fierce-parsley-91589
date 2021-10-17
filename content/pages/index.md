@@ -6,7 +6,7 @@ sections:
     image: images/hero.png
     image_alt: App preview
     title: Coda Is Here For Everyone.
-    content: "Best \_ decentralize  services in the world we help developers and small and median sites to the growth of their business by low cost  And we target make all services and web deal by blochain cryptocurncy and token then make it  free In the near future\n"
+    content: "Create, build and scale DeFi projects, tools,websites and communities based in security and safe.\r\nmake your crypto live.\r\nMake your work easy.\n"
     actions:
       - label: Learn More
         url: /features
