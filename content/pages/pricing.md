@@ -11,10 +11,14 @@ sections:
         subtitle: For small businesses
         price: from $2/m
         details: |
-          *   Lorem ipsum dolor sit amet
-          *   Mauris a mi tincidunt
-          *   Suspendisse ut lacus
-          *   Etiam eget dui a augue
+          *   unlimted bandwith
+          *   Take Backups anytime for free
+          *   memory from 1 gb ram up to 64
+          *   scale up on demand
+          *   Control Panel 
+          *   not incloud domain
+
+
 
           ##### $5/m by bitcon cash
 
