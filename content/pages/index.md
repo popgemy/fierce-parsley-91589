@@ -14,7 +14,7 @@ sections:
   - section_id: features
     type: section_features
     background: gray
-    title: "Fast and\_decentralized"
+    title: Fast
     subtitle: "Coda is fast protcol you can\_Send and receive or even hold your\_less than a 5 second"
     features:
       - title: Unlimited decentralized services
