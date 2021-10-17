@@ -1,6 +1,6 @@
 ---
 title: About Coda
-subtitle: "Coda is big\_ community of highly experienced developers , Help"
+subtitle: "Coda is big\_ community of highly experienced developers , help evryone to do great things and lead them to sucsse"
 seo:
   title: Style Guide
   description: This is the style guide page
