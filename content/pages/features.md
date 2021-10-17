@@ -7,7 +7,9 @@ sections:
     image: images/feature1.png
     image_alt: App preview on a phone and tablet
     title: Have idea ? so you are welcome
-    content: "###### Best \_ decentralize  services in the world we help developers and small and median sites to the growth of their business by low cost  And we target make all services and web deal by blochain cryptocurncy and token then make it  free In the near future&#xA;&#xA;\n"
+    content: >
+      Coda target to create huge Community around world , And  welcome welcome 
+      anyone with good  ideas to join our big community
     actions:
       - label: Free Trial
         url: 'https://coinmarketcap.com/'
