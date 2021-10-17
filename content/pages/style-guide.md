@@ -1,5 +1,5 @@
 ---
-title: Style Guide
+title: About Coda
 subtitle: "Coda is big\_ community of highly experienced developers"
 seo:
   title: Style Guide
