@@ -6,7 +6,7 @@ sections:
     background: gray
     image: images/feature1.png
     image_alt: App preview on a phone and tablet
-    title: Have idea ? so you are welcome
+    title: Have idea ? so you are welcome let us know .
     content: >
       Coda target to create huge Community around world , And  welcome welcome 
       anyone with good  ideas to join our big community 
