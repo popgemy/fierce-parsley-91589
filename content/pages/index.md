@@ -6,7 +6,7 @@ sections:
     image: /images/5ebfeebbf2fbf5d9973e203b244f8dc88ca825f2_Nodes_1TGgsOv.jpg
     image_alt: App preview
     title: Coda Is Here For Everyone.
-    content: "Create, build and scale DeFi projects, tools,websites and communities based in security and safe.\r\nmake your crypto live.\r\nMake your work easy.\n"
+    content: "Coda is big ؤommunity make evryone Create, build and scale DeFi projects, tools,websites and communities based in security and safe.\r\nmake your crypto live.\r\nMake your work easy.\n"
     actions:
       - label: Learn More
         url: /features
