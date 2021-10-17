@@ -44,17 +44,24 @@ sections:
       - title: photographers
         subtitle: "for\_Photographer websites"
         price: from $8/m
-        details: >-
-          ## Lorem ipsum
+        details: >+
+          Features:
 
 
           Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
           eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
 
-          - Lorem ipsum
+          *   Unlimted Bandwidth
 
-          - dolor sit amet
+          *   Awsome Galery
+
+          *   Drag and drop anywhere you want
+
+          *   500 mb for start plan
+
+          *   Control Panel
+
         highlight: false
         actions: []
       - title: Travel systems
