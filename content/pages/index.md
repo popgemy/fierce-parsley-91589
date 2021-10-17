@@ -33,10 +33,9 @@ sections:
       - title: Coda provides big services for low cost
         image: images/feature2.png
         image_alt: App users welcoming a new member
-        content: >+
-          No need to spend a lot of money on services, Coda here  for make all
-          this easy and cheap
-
+        content: >
+          By big professional developers community, No need to spend a lot of
+          money on services, Coda here  for make all this easy and cheap
         actions:
           - label: Learn More
             url: /features
