@@ -45,7 +45,7 @@ sections:
         subtitle: "for\_Photographer websites"
         price: from $8/m
         details: |
-          Features:
+          #### Features:
 
           *   Unlimted Bandwidth
           *   Awsome Galery
