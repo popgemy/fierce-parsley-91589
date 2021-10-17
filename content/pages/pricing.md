@@ -43,7 +43,7 @@ sections:
         actions: []
       - title: photographers
         subtitle: lorem-ipsum
-        price: lorem-ipsum
+        price: from $8/m
         details: >-
           ## Lorem ipsum
 
