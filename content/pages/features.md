@@ -8,8 +8,9 @@ sections:
     image_alt: App preview on a phone and tablet
     title: Have idea ? so you are welcome let us know .
     content: >
-      Coda target to create huge Community around world , And  welcome welcome 
-      anyone with good  ideas to join our big community 
+      #### Coda target to create huge Community around world , And  welcome
+      welcome  anyone with good  ideas to join our big community,If you have a
+      good idea feel free to email us
     actions:
       - label: Free Trial
         url: 'https://coinmarketcap.com/'
