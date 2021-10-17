@@ -9,7 +9,7 @@ sections:
     title: Have idea ? so you are welcome
     content: >
       Coda target to create huge Community around world , And  welcome welcome 
-      anyone with good  ideas to join our big community
+      anyone with good  ideas to join our big community 
     actions:
       - label: Free Trial
         url: 'https://coinmarketcap.com/'
