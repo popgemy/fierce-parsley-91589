@@ -32,17 +32,16 @@ sections:
       - title: Commerce Sites
         subtitle: lorem-ipsum
         price: from $5/m
-        details: >-
-          ## Lorem ipsum
+        details: |
+          ## Features:
 
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+          *   Unlimted Bandwith 
+          *   Up to 10000 product
+          *   advanced control panel 
+          *   1 gb ram memory can up to 64
+          *   incloud payment method
+          *   20 gb disk speace
+          *   not incloud domain
         highlight: false
         actions: []
       - title: photographers
