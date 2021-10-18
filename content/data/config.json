@@ -39,7 +39,7 @@
         "sections": [
             {
                 "type": "footer_text",
-                "image": "/images/logo.png",
+                "image": "/images/coda1.png",
                 "image_url": "/",
                 "image_alt": "Footer logo",
                 "content": "Stackbit theme demo"
