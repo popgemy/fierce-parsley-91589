@@ -71,7 +71,7 @@ sections:
             url: /signup
             style: secondary
       - title: Digtal Markting
-        subtitle: lorem-ipsum
+        subtitle: for growing your work
         price: lorem-ipsum
         details: >-
           ## Lorem ipsum
