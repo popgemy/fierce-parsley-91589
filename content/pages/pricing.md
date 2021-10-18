@@ -73,16 +73,21 @@ sections:
       - title: Digtal Markting
         subtitle: for growing your work
         price: contact us
-        details: |
+        details: >+
           ## Features:
 
-          *   full seo for your site 
 
-          <!---->
+          *   Make your project reach people who are interested in your
+          specialty.
 
-          *   make your project  reach 
-          *   desighn and build all your project nned 
-          *
+          *   Design and build all your project requirements.
+
+          *   full seo for your site.
+
+          *   Cloud hosting 
+
+          *   Support all time with you
+
         highlight: false
         actions: []
       - title: lorem-ipsum
