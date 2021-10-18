@@ -22,7 +22,7 @@ sections:
         image_alt: App preview on a phone and tablet
         content: >
           Much services for you any time any cost you want by blockchin  fast to
-          delvery with coda 
+          delvery with coda
         actions:
           - label: Learn More
             url: /features
