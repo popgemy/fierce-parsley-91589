@@ -16,10 +16,9 @@ sections:
           *   memory from 1 gb ram up to 64
           *   scale up on demand
           *   Control Panel
-          *   not incloud domain
           *   Cloud hosting
 
-          #####
+          Get 40% discount when you pay with Coda 
         actions:
           - label: Order Now
             url: /signup
