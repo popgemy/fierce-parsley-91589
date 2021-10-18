@@ -73,17 +73,16 @@ sections:
       - title: Digtal Markting
         subtitle: for growing your work
         price: contact us
-        details: >-
-          ## Lorem ipsum
+        details: |
+          ## Features:
 
+          *   full seo for your site 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          <!---->
 
-
-          - Lorem ipsum
-
-          - dolor sit amet
+          *   make your project  reach 
+          *   desighn and build all your project nned 
+          *
         highlight: false
         actions: []
   - section_id: faq
