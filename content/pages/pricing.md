@@ -55,7 +55,7 @@ sections:
           *   Control Panel
         highlight: false
         actions: []
-      - title: Travel systems
+      - title: Smart contract
         subtitle: For very large businesses
         price: contact us
         details: |-
