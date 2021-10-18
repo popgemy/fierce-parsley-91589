@@ -96,7 +96,6 @@ sections:
         highlight: false
         actions: []
       - title: Social media s
-        subtitle: lorem-ipsum
         price: lorem-ipsum
         details: >-
           ## Lorem ipsum
