@@ -66,7 +66,9 @@ sections:
           *   verfy your smart contract on blochchain network
           *   add your token on market
           *   have any limt you want for market cap
-          *   website for your smart contract and your project 
+          *   website for your smart contract and your project
+
+          Get 40% off when you pay with
         actions:
           - label: Order Now
             url: /signup
