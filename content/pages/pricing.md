@@ -53,6 +53,7 @@ sections:
           *   Drag and drop anywhere you want
           *   500 mb for start plan
           *   Control Panel
+          *   Cloud Hosting
         highlight: false
         actions: []
       - title: Smart Contract
