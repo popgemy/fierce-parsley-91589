@@ -58,11 +58,14 @@ sections:
       - title: Smart Contract
         subtitle: for smart contract deploy
         price: contact us
-        details: |-
-          * Vestibulum non eros quis
-          * Aenean iaculis lorem
-          * Mauris eleifend sapien
-          * Phasellus lobortis risus laoreet quam
+        details: |
+          #### Features:
+
+          *   deploy your new smart contract
+          *   verfy your smart contract on blochchain network
+          *   add your token on market
+          *   have any limt you want for market cap
+          *   website for your smart contract and your project 
         actions:
           - label: Order Now
             url: /signup
