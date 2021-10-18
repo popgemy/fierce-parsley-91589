@@ -9,7 +9,7 @@ sections:
     pricing_plans:
       - title: Blogs /smal sites/personal
         subtitle: For small businesses
-        price: from $2/m
+        price: from $4/m
         details: |
           *   unlimted bandwith
           *   Take Backups anytime for free
