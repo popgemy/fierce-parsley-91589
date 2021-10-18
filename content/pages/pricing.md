@@ -45,7 +45,7 @@ sections:
       - title: photographers
         subtitle: "for\_Photographer websites"
         price: from $8/m
-        details: |
+        details: |+
           #### Features:
 
           *   Unlimted Bandwidth
@@ -54,6 +54,7 @@ sections:
           *   500 mb for start plan
           *   Control Panel
           *   Cloud Hosting
+
         highlight: false
         actions: []
       - title: Smart Contract
