@@ -55,7 +55,7 @@ sections:
           *   Control Panel
         highlight: false
         actions: []
-      - title: Smart contract
+      - title: Smart Contract
         subtitle: For very large businesses
         price: contact us
         details: |-
