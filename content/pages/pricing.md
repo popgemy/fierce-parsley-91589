@@ -95,7 +95,7 @@ sections:
           Get 40% off when you pay with
         highlight: false
         actions: []
-      - title: lorem-ipsum
+      - title: Social media s
         subtitle: lorem-ipsum
         price: lorem-ipsum
         details: >-
