@@ -31,7 +31,7 @@ sections:
       - title: Commerce Sites
         subtitle: lorem-ipsum
         price: from $5/m
-        details: |
+        details: |+
           ## Features:
 
           *   Unlimted Bandwith
@@ -41,7 +41,7 @@ sections:
           *   incloud payment method
           *   20 gb disk speace
           *   Cloud hosting
-          *   not incloud domain
+
         highlight: false
         actions: []
       - title: photographers
