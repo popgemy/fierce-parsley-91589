@@ -19,11 +19,7 @@ sections:
           *   not incloud domain
           *   Cloud hosting
 
-          ##### $5/m by trx
-
-          ##### $3.5/m by bnb
-
-          ##### only 2$/m by Coda
+          #####
         actions:
           - label: Order Now
             url: /signup
