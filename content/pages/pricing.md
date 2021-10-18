@@ -25,7 +25,7 @@ sections:
             style: secondary
       - title: Commerce Sites
         subtitle: lorem-ipsum
-        price: from $5/m
+        price: from $9/m
         details: |
           ## Features:
 
