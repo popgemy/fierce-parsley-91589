@@ -17,6 +17,7 @@ sections:
           *   scale up on demand
           *   Control Panel
           *   not incloud domain
+          *   Cloud hosting
 
           ##### $5/m by trx
 
