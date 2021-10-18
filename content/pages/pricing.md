@@ -33,12 +33,13 @@ sections:
         details: |
           ## Features:
 
-          *   Unlimted Bandwith 
+          *   Unlimted Bandwith
           *   Up to 10000 product
-          *   advanced control panel 
+          *   advanced control panel
           *   1 gb ram memory can up to 64
           *   incloud payment method
           *   20 gb disk speace
+          *   Cloud hosting
           *   not incloud domain
         highlight: false
         actions: []
