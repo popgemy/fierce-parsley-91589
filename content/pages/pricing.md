@@ -57,7 +57,7 @@ sections:
         actions: []
       - title: Travel systems
         subtitle: For very large businesses
-        price: $149/m
+        price: contact us
         details: |-
           * Vestibulum non eros quis
           * Aenean iaculis lorem
