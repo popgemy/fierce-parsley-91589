@@ -72,7 +72,7 @@ sections:
             style: secondary
       - title: Digtal Markting
         subtitle: for growing your work
-        price: lorem-ipsum
+        price: contact us
         details: >-
           ## Lorem ipsum
 
