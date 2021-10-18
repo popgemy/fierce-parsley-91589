@@ -56,7 +56,7 @@ sections:
         highlight: false
         actions: []
       - title: Smart Contract
-        subtitle: For very large businesses
+        subtitle: for smart contract deploy
         price: contact us
         details: |-
           * Vestibulum non eros quis
