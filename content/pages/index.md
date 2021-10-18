@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    image: /images/5ebfeebbf2fbf5d9973e203b244f8dc88ca825f2_Nodes_1TGgsOv.jpg
+    image: /images/size5.png
     image_alt: App preview
     title: Coda Is Here For Everyone.
     content: "Coda is big community make evryone Create, build and scale DeFi projects, tools,websites and communities based in security and safe.\r\nmake your crypto live.\r\nMake your work easy.\n"
