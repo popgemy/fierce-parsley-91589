@@ -76,7 +76,7 @@ sections:
       - title: Digtal Markting
         subtitle: for growing your work
         price: contact us
-        details: >+
+        details: >
           ## Features:
 
 
@@ -87,10 +87,12 @@ sections:
 
           *   full seo for your site.
 
-          *   Cloud hosting 
+          *   Cloud hosting
 
           *   Support all time with you
 
+
+          Get 40% off when you pay with
         highlight: false
         actions: []
       - title: lorem-ipsum
