@@ -24,7 +24,7 @@ sections:
     title: Ready to join coda Community!
     subtitle: Coda here for For any creative person.
     actions:
-      - label: Get Started
+      - label: Go
         url: '#'
         style: secondary
 seo:
