@@ -9,8 +9,9 @@ sections:
     title: Have idea ? so you are welcome let us know .
     content: >
       #### Coda target to create huge Community around world , And  welcome
-      welcome  anyone with good  ideas to join our big community,If you have a
-      good idea feel free to email us
+      welcome  anyone with good  ideas to join our big community,We can support
+      you and be your partner if your project and idea great,If you have a good
+      idea feel free to contact us
     actions:
       - label: Twtter
         url: 'https://coinmarketcap.com/'
