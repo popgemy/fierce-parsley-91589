@@ -22,7 +22,7 @@ sections:
   - section_id: call-to-action
     type: section_cta
     title: Ready to join coda Community!
-    subtitle: Coda here for For any creative person.
+    subtitle: Coda here for For
     actions:
       - label: Go
         url: '#'
