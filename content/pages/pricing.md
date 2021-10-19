@@ -135,8 +135,7 @@ sections:
 
 
           \-
-      - question: how
-        answer: >-
+      - answer: >-
           Nullam quis ultrices ipsum. Integer eleifend laoreet quam, ac
           dignissim nisi mollis eget. Ut vitae nisi sit amet nisi suscipit
           dictum faucibus eget magna. Vivamus in hendrerit magna, non
