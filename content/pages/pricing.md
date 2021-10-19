@@ -44,7 +44,7 @@ sections:
       - title: photographers
         subtitle: "for\_Photographer websites"
         price: from $8/m
-        details: |
+        details: |+
           #### Features:
 
           *   Unlimted Bandwidth
@@ -54,7 +54,8 @@ sections:
           *   Control Panel
           *   Cloud Hosting
 
-          Get 40% off when you pay with
+          Get 40% discount when you pay with Coda
+
         highlight: false
         actions: []
       - title: Smart Contract
