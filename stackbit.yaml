@@ -1,42 +1,16 @@
-# The stackbit.yaml file lets you define the characteristic of your website
-# needed to make your theme, or project, work with Stackbit. For more info about
-# stackbit.yaml configuration visit https://www.stackbit.com/docs/stackbit-yaml/
 stackbitVersion: ~0.3.0
 ssgName: nextjs
 cmsName: git
-
-# The "buildCommand" and the "publishDir" properties are used to configure the
-# serverless deployment platform when Stackbit creates a new site from this theme.
 buildCommand: npm run build
 publishDir: out
-
-# The following properties define the content schema of the site. It allows
-# Stackbit Studio to present on-page editing experience, as well as other
-# advanced editing capabilities.
-
-# assets define how assets are referenced by static site generator
-# for more info about assets visit: https://www.stackbit.com/docs/stackbit-yaml/assets/
 assets:
   referenceType: static
   staticDir: public
   uploadDir: images
   publicPath: /
-
-# dataDir defines the folder for files described by models of type 'data'.
-# The model properties 'folder', 'match' and 'exclude' should be relative to dataDir
 dataDir: content/data
-
-# pagesDir defines the folder for files described by models of type 'page'.
-# The model properties 'folder', 'match' and 'exclude' should be relative to dataDir
 pagesDir: content/pages
-
-# pageLayoutKey is additional filtering property that specifies which page field
-# should be used to match a page to a model, by model name, in case when pages
-# belonging to different models are located in the same folder
 pageLayoutKey: layout
-
-# These are the models of the website
-# for more info about models visit: https://www.stackbit.com/docs/stackbit-yaml/models/
 models:
   config:
     type: data
@@ -868,3 +842,4 @@ models:
               default: name
             - type: boolean
               name: relativeUrl
+nodeVersion: 10
