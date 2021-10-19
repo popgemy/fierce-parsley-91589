@@ -26,7 +26,7 @@ sections:
       - title: Commerce Sites
         subtitle: lorem-ipsum
         price: from $9/m
-        details: |
+        details: |+
           ## Features:
 
           *   Unlimted Bandwith
@@ -37,7 +37,8 @@ sections:
           *   20 gb disk speace
           *   Cloud hosting
 
-          Get 40% off when you pay with
+          Get 40% discount when you pay with Coda
+
         highlight: false
         actions: []
       - title: photographers
