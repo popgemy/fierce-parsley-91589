@@ -33,7 +33,7 @@ seo:
       relativeUrl: true
 layout: page
 ---
-### Coda is big  community of highly experienced developers , help evryone to do great things and lead them to sucsse,Coda is .Best   decentralize  services in the world we help developers and small and median sites to the growth of their business by low cost  And we target make all services and web deal by blochain cryptocurncy and token then make it  free In the near future.
+### Coda is New community of highly experienced developers , help evryone to do great things and lead them to sucsse,Coda is .Best   decentralize  services in the world we help developers and small and median sites to the growth of their business by low cost  And we target make all services and web deal by blochain cryptocurncy and token then make it  free In the near future.
 
 # what we do :
 
@@ -48,10 +48,3 @@ layout: page
 # Our Goals:
 
 #### We look forward to making services and creating applications available to everyone,no exceptions we want ,We look forward to making all the distinguished people reach their goals with easy way no cost no time coda can do this with a big  professional developers community.
-
-
-
-
-
-
-
