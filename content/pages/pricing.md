@@ -118,6 +118,22 @@ sections:
 
         highlight: false
         actions: []
+      - title: lorem-ipsum
+        subtitle: lorem-ipsum
+        price: lorem-ipsum
+        details: >-
+          ## Lorem ipsum
+
+
+          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+          - Lorem ipsum
+
+          - dolor sit amet
+        highlight: false
+        actions: []
   - section_id: faq
     type: section_faq
     background: gray
