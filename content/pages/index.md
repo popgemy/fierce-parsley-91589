@@ -31,7 +31,7 @@ sections:
             icon: arrow-right
             icon_position: right
       - title: Coda provides big services for low cost
-        image: images/feature2.png
+        image: /images/images (1).jpg
         image_alt: App users welcoming a new member
         content: >
           By big professional developers community, No need to spend a lot of
