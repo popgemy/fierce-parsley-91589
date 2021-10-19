@@ -51,7 +51,7 @@ sections:
           blogger or even a photographer,Coda helps you reach your goals and
           grow your business easily without thinking about the cost
         actions:
-          - label: Learn More
+          - label: Projects and Ideas
             url: /features
             style: secondary
             has_icon: true
