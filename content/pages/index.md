@@ -17,7 +17,7 @@ sections:
     title: Fast
     subtitle: "Coda is fast protcol you can\_Send and receive or even hold your\_less than a 5 second"
     features:
-      - title: "Unlimited decentralized services for\_Developers and users too"
+      - title: "Unlimited decentralized services for\_Developers and users"
         image: /images/60-606715_digital-services-png-transparent-png.png
         image_alt: App preview on a phone and tablet
         content: >
