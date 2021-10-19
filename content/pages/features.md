@@ -22,7 +22,7 @@ sections:
   - section_id: call-to-action
     type: section_cta
     title: Ready to join coda Community!
-    subtitle: Coda here for For
+    subtitle: Devlopers can use our projects
     actions:
       - label: Go
         url: '#'
