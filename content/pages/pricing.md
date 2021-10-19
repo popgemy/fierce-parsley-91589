@@ -102,17 +102,18 @@ sections:
       - title: Social Media
         subtitle: "For social medeia and\_social communication sites"
         price: contact us for price
-        details: >
+        details: |+
           ## Features:
 
+          You can have with coda in this plane:
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          *   Social network like Facebook,Twwter.
+          *   photo and vedeo sharing social network service.
+          *   huge cloud hosting incloud 1m user and more.
+          *   Control Panel for can control your website
+          *   SSL certificate
+          *   Incloud Special domain
 
-
-          *   Lorem ipsum
-
-          *   dolor sit amet
         highlight: false
         actions: []
   - section_id: faq
