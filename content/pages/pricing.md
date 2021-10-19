@@ -10,7 +10,7 @@ sections:
       - title: Blogs /smal sites/personal
         subtitle: For small businesses
         price: from $4/m
-        details: |
+        details: |+
           *   unlimted bandwith
           *   Take Backups anytime for free
           *   memory from 1 gb ram up to 64
@@ -20,6 +20,7 @@ sections:
           *   SSL certificate
 
           Get 40% discount when you pay with Coda
+
         actions:
           - label: Order Now
             url: /signup
