@@ -129,10 +129,19 @@ sections:
           Here we accept only trx and bnb and coda, whene u have pay by bnb you
           get 20% discount and by coda you get 40% discout .
       - question: Plans that include the discount؟
-        answer: >-
-          Nunc sollicitudin libero tincidunt felis pretium, consectetur aliquam
-          eros placerat. Sed neque neque, bibendum a pulvinar id, pellentesque
-          eget velit.
+        answer: >+
+          These plans are blogs-Commerce Sites-photographers sites-Digtal
+          Markting
+
+
+
+
+
+
+
+          \-
+
+
       - question: Sed scelerisque in ipsum eu sollicitudin?
         answer: >-
           Nullam quis ultrices ipsum. Integer eleifend laoreet quam, ac
