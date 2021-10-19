@@ -102,17 +102,17 @@ sections:
       - title: Social Media
         subtitle: "For social medeia and\_social communication sites"
         price: 'Features:'
-        details: >-
-          ## Lorem ipsum
+        details: >
+          ## Features:
 
 
           Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
           eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
 
-          - Lorem ipsum
+          *   Lorem ipsum
 
-          - dolor sit amet
+          *   dolor sit amet
         highlight: false
         actions: []
   - section_id: faq
