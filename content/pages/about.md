@@ -1,6 +1,6 @@
 ---
 title: About Us
-subtitle: Coda for evry one
+subtitle: CODA FOR EVRYONE
 image: images/about.jpg
 image_alt: Team members in a conference room
 seo:
