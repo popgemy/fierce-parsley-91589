@@ -100,7 +100,7 @@ sections:
         highlight: false
         actions: []
       - title: Social Media
-        subtitle: lorem-ipsum
+        subtitle: "For social medeia and\_social communication sites"
         price: lorem-ipsum
         details: >-
           ## Lorem ipsum
