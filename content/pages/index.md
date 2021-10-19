@@ -65,12 +65,6 @@ sections:
       Aliquam malesuada ligula eget est fringilla blandit. Integer finibus
       semper libero id sodales.
     reviews:
-      - author: Parsley Montana
-        avatar: images/review2.jpg
-        avatar_alt: Parsley Montana's photo
-        content: >-
-          We don't have time to waste. We want to build an integrated society
-          and make services available to everyone
       - author: Jonquil Von Haggerston
         avatar: images/review3.jpg
         avatar_alt: Jonquil Von Haggerston's photo
