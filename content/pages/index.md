@@ -37,7 +37,7 @@ sections:
           By big professional developers community, No need to spend a lot of
           money on services, Coda here  for make all this easy and cheap
         actions:
-          - label: Learn More
+          - label: Services
             url: /features
             style: secondary
             has_icon: true
