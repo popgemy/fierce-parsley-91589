@@ -101,7 +101,7 @@ sections:
         actions: []
       - title: Social Media
         subtitle: "For social medeia and\_social communication sites"
-        price: 'Features:'
+        price: contact us for price
         details: >
           ## Features:
 
