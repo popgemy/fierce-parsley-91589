@@ -18,7 +18,7 @@ sections:
     subtitle: "Coda is fast protcol you can\_Send and receive or even hold your\_less than a 5 second"
     features:
       - title: Unlimited decentralized services
-        image: /images/how-does-blockchain-work-hero1567110978694840.jpg
+        image: /images/Why Use Blockchain Technology.png
         image_alt: App preview on a phone and tablet
         content: >
           Much services for you any time any cost you want by blockchin  fast to
