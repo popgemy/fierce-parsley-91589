@@ -38,7 +38,7 @@ sections:
           money on services, Coda here  for make all this easy and cheap
         actions:
           - label: Services
-            url: /features
+            url: /pricing
             style: secondary
             has_icon: true
             icon: arrow-right
