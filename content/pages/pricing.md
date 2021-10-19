@@ -99,7 +99,7 @@ sections:
 
         highlight: false
         actions: []
-      - title: Social M
+      - title: Social Media
         subtitle: lorem-ipsum
         price: lorem-ipsum
         details: >-
