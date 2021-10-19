@@ -101,7 +101,7 @@ sections:
         actions: []
       - title: Social Media
         subtitle: "For social medeia and\_social communication sites"
-        price: lorem-ipsum
+        price: 'Features:'
         details: >-
           ## Lorem ipsum
 
