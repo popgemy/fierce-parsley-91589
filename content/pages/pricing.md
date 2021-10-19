@@ -63,17 +63,16 @@ sections:
       - title: Smart Contract
         subtitle: for smart contract deploy
         price: contact us
-        details: |+
+        details: |
           #### Features:
 
           *   deploy your new smart contract
           *   verfy your smart contract on blochchain network
-          *   add your token on market
-          *   have any limt you want for market cap
-          *   website for your smart contract and your project
+          *   add your token to market.
+          *   have any limt you want for market cap.
+          *   website for your smart contract and your project.
 
-          Get 40% discount when you pay with Coda
-
+          Get 40% discount when you pay with Coda.
         actions:
           - label: Order Now
             url: /signup
