@@ -79,7 +79,7 @@ sections:
       - title: Digtal Markting
         subtitle: for growing your work
         price: contact us
-        details: >
+        details: >+
           ## Features:
 
 
@@ -95,7 +95,8 @@ sections:
           *   Support all time with you
 
 
-          Get 40% off when you pay with
+          Get 40% discount when you pay with Coda
+
         highlight: false
         actions: []
       - title: Social media
