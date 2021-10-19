@@ -17,8 +17,9 @@ sections:
           *   scale up on demand
           *   Control Panel
           *   Cloud hosting
+          *   SSL certificate
 
-          Get 40% discount when you pay with Coda 
+          Get 40% discount when you pay with Coda
         actions:
           - label: Order Now
             url: /signup
