@@ -15,7 +15,7 @@ sections:
       - label: Twtter
         url: 'https://coinmarketcap.com/'
         style: primary
-      - label: View Demo
+      - label: Facebook
         url: '#'
         style: secondary
   - section_id: call-to-action
