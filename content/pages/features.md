@@ -12,7 +12,7 @@ sections:
       welcome  anyone with good  ideas to join our big community,If you have a
       good idea feel free to email us
     actions:
-      - label: Free Trial
+      - label: Twtter
         url: 'https://coinmarketcap.com/'
         style: primary
       - label: View Demo
