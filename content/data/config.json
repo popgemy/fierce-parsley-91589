@@ -60,7 +60,7 @@
                     },
                     {
                         "label": "Sign Up",
-                        "url": "/signup",
+                        "url": "/features",
                         "style": "link"
                     },
                     {
