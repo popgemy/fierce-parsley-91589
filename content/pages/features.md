@@ -21,7 +21,7 @@ sections:
         style: secondary
   - section_id: call-to-action
     type: section_cta
-    title: "Start developing and improving your projects with our platfrom\_ :)"
+    title: "Start developing and improving your projects with UnderZ\_ :)"
     subtitle: "follow\_Instructions your site and projects with\_UnderZ JS"
     actions:
       - label: UnderZ JS
