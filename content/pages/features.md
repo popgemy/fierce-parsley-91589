@@ -25,7 +25,7 @@ sections:
     subtitle: Devlopers can use our projects
     actions:
       - label: Go
-        url: '#'
+        url: /style-guide
         style: secondary
 seo:
   title: Features
