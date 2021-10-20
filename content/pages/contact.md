@@ -22,7 +22,7 @@ sections:
         label: Subject
         default_value: Please select
         options:
-          - S
+          - Service pla
           - Sponsorship
           - Other
       - input_type: textarea
