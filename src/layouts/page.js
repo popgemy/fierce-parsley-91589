@@ -32,18 +32,7 @@ export default class Page extends React.Component {
                             {markdownContent && <div className="post-content">{markdownify(markdownContent)}</div>}
                             
                         </article>
-                        <Link
-                href={withPrefix(url)}
-                {...attrs}
-                className={classNames({
-                    button: actionStyle === 'primary' || actionStyle === 'secondary',
-                    secondary: actionStyle === 'secondary',
-                    'has-icon': hasIcon
-                })}
-            >
-                {hasIcon && <Icon icon={actionIcon} />}
-                <span className={classNames({ 'order-first': actionIconPos === 'right' })}>{label}</span>
-            </Link>
+                        
                     </div>
                 </div>
             </Layout>
