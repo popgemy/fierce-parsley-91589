@@ -62,7 +62,7 @@ sections:
             icon_position: right
   - section_id: call-to-action
     type: section_cta
-    title: 'Work with us :)'
+    title: 'Work with us with our platform li :)'
     subtitle: "Coda is\_open source project so you can join to our github and work with us"
     actions:
       - label: Get Started
