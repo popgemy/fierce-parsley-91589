@@ -27,7 +27,7 @@ sections:
           building your own projects.
         actions:
           - label: Learn More
-            url: /features
+            url: 'http://underz.hlack.net/UnderZ/'
             style: secondary
             has_icon: true
             icon: arrow-right
