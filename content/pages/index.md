@@ -8,7 +8,7 @@ sections:
     title: Coda Is Here For Everyone.
     content: "Coda is big community make evryone Create, build and scale DeFi projects, tools,websites and communities based in security and safe.\r\nmake your crypto live.\r\nMake your work easy.\n"
     actions:
-      - label: 'Contact '
+      - label: Contact  with dev
         url: /features
         style: primary
   - section_id: features
