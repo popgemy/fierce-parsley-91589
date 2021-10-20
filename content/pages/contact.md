@@ -23,7 +23,7 @@ sections:
         default_value: Please select
         options:
           - Services planes
-          - Sponsorship
+          - De
           - Other
       - input_type: textarea
         name: message
