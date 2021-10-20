@@ -21,7 +21,7 @@ sections:
         style: secondary
   - section_id: call-to-action
     type: section_cta
-    title: 'Developers can also participate in our community:)'
+    title: 'Start developing and improving your projects from :)'
     subtitle: "follow\_Instructions your site and projects with\_UnderZ JS"
     actions:
       - label: UnderZ JS
