@@ -63,7 +63,7 @@ sections:
   - section_id: call-to-action
     type: section_cta
     title: 'Contribute with us and add your passion :)'
-    subtitle: 'Coda for all and evryone one can work with us :)'
+    subtitle: "Coda for all and evryone\_ can work with us :)"
     actions:
       - label: GitHub
         url: /signup
