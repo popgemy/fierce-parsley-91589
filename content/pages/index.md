@@ -70,7 +70,7 @@ sections:
         style: primary
 seo:
   title: Coda mix
-  description: The preview of the Azimuth theme
+  description: Best v
   extra:
     - name: 'og:type'
       value: website
