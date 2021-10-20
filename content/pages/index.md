@@ -9,7 +9,7 @@ sections:
     content: "Coda is big community make evryone Create, build and scale DeFi projects, tools,websites and communities based in security and safe.\r\nmake your crypto live.\r\nMake your work easy.\n"
     actions:
       - label: Contact with developers
-        url: /features
+        url: /contact
         style: primary
   - section_id: features
     type: section_features
