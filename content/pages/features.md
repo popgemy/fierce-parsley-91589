@@ -21,7 +21,7 @@ sections:
         style: secondary
   - section_id: call-to-action
     type: section_cta
-    title: Ddd
+    title: 'Developers can also participate in our community:)'
     subtitle: dddd
     actions:
       - label: UnderZ JS
