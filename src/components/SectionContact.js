@@ -50,7 +50,7 @@ export default class SectionContact extends React.Component {
                             </div>
                         ))}
                         <div className="form-row form-submit">
-                            <button type="submit" href""d" className="button">
+                            <button type="submit" href""" className="button">
                                 {submitLabel}
                             </button>
                         </div>
