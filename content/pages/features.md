@@ -24,7 +24,7 @@ sections:
     title: UnderZ
     subtitle: dddd
     actions:
-      - label: Go
+      - label: UnderZ
         url: /style-guide
         style: secondary
 seo:
