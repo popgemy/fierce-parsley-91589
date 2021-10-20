@@ -65,7 +65,7 @@ sections:
     title: "Work with us with our platform\_library :)"
     subtitle: "UnderZ is\_open source project so you can join to our github and work with us"
     actions:
-      - label: Get Started
+      - label: github
         url: /signup
         style: primary
 seo:
