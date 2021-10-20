@@ -22,7 +22,7 @@ sections:
   - section_id: call-to-action
     type: section_cta
     title: For developers who want to build apps
-    subtitle: Devlopers can use our projects
+    subtitle: dddd
     actions:
       - label: Go
         url: /style-guide
