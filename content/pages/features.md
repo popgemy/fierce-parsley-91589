@@ -22,7 +22,7 @@ sections:
   - section_id: call-to-action
     type: section_cta
     title: 'Developers can also participate in our community:)'
-    subtitle: follow the
+    subtitle: "follow\_Instructions to start"
     actions:
       - label: UnderZ JS
         url: /style-guide
