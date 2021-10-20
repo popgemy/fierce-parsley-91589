@@ -22,7 +22,7 @@ sections:
   - section_id: call-to-action
     type: section_cta
     title: "Start developing and improving your projects with UnderZ\_ :)"
-    subtitle: "follow\_Instructions your site and projects with\_UnderZ JS"
+    subtitle: Under Z is one of our projects
     actions:
       - label: UnderZ JS
         url: /style-guide
