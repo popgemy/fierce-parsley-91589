@@ -25,7 +25,7 @@ sections:
     subtitle: Devlopers can use our projects
     actions:
       - label: Go
-        url: '#'
+        url: /sighn
         style: secondary
 seo:
   title: Features
