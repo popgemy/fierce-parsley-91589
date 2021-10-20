@@ -26,7 +26,7 @@ sections:
           developer you can easily use our UNDERZ  js freamwork  To start
           building your own projects.
         actions:
-          - label: Learn More
+          - label: U
             url: 'http://underz.hlack.net/UnderZ/'
             style: secondary
             has_icon: true
