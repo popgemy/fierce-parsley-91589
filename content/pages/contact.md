@@ -22,7 +22,7 @@ sections:
         label: Subject
         default_value: Please select
         options:
-          - Service planes
+          - Services planes
           - Sponsorship
           - Other
       - input_type: textarea
