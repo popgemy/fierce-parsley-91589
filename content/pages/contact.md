@@ -23,7 +23,7 @@ sections:
         default_value: Please select
         options:
           - Services planes
-          - De
+          - Developer community
           - Other
       - input_type: textarea
         name: message
