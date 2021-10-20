@@ -22,7 +22,7 @@ sections:
         label: Subject
         default_value: Please select
         options:
-          - Error on the site
+          - S
           - Sponsorship
           - Other
       - input_type: textarea
