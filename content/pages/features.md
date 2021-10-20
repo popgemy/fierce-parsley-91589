@@ -24,7 +24,7 @@ sections:
     title: UnderZ
     subtitle: dddd
     actions:
-      - label: 'UnderZ '
+      - label: UnderZ J
         url: /style-guide
         style: secondary
 seo:
