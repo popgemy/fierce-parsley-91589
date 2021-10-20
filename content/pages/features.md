@@ -21,7 +21,7 @@ sections:
         style: secondary
   - section_id: call-to-action
     type: section_cta
-    title: Our projects!
+    title: Want build
     subtitle: Devlopers can use our projects
     actions:
       - label: Go
