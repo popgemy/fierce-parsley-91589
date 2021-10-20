@@ -62,7 +62,7 @@ sections:
             icon_position: right
   - section_id: call-to-action
     type: section_cta
-    title: its open
+    title: 'Work with us :)'
     subtitle: This is an optional description for the call to action block.
     actions:
       - label: Get Started
