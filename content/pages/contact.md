@@ -6,7 +6,7 @@ sections:
     background: gray
     title: Contact
     content: |
-      For odrder any service or any support please feel free to contact us 
+      For order any service or any support please feel free to contact us
     form_id: contactForm
     form_fields:
       - input_type: text
