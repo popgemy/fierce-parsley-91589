@@ -30,8 +30,9 @@ export default class Page extends React.Component {
                                 </div>
                             )}
                             {markdownContent && <div className="post-content">{markdownify(markdownContent)}</div>}
-                            
+
                         </article>
+                        
                     </div>
                 </div>
             </Layout>
