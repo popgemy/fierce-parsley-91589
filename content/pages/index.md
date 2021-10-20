@@ -63,7 +63,7 @@ sections:
   - section_id: call-to-action
     type: section_cta
     title: "Work with us with our platform\_library :)"
-    subtitle: "Coda is\_open source project so you can join to our github and work with us"
+    subtitle: "UnderZ is\_open source project so you can join to our github and work with us"
     actions:
       - label: Get Started
         url: /signup
