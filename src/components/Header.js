@@ -114,7 +114,7 @@ export default class Header extends React.Component {
                                 </p>
                             )}
                         </div>
-                        {hasNav && !_.isEmpty(navLinks) && this.renderNavLinks(navLinks, pageUrl)}
+                        {hasNav && !_.isEmpty(navLinks) && this.renderNavLinks(navLinks, pageUrl)}f
                     </div>
                 </div>
             </header>
