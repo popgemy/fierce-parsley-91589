@@ -79,7 +79,7 @@ sections:
             url: /signup
             style: secondary
       - title: Digtal Markting
-        subtitle: for growing your work
+        subtitle: for digtal markting services
         price: contact us
         details: >+
           ## Features:
